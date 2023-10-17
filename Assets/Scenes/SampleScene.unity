@@ -173,7 +173,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b155bcac341eaa45b5dca0f3af90a55, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  originalimage: {fileID: 2800000, guid: f5e12382869bd1842ac7bfe06ca9ed9a, type: 3}
+  originalimage: {fileID: 2800000, guid: 77d22be6da903f24e8e9a80af855132f, type: 3}
+  LOWER:
+    Val0: 0
+    Val1: 0
+    Val2: 0
+    Val3: 0
+  UPPER:
+    Val0: 180
+    Val1: 0
+    Val2: 125
+    Val3: 0
 --- !u!114 &151426887
 MonoBehaviour:
   m_ObjectHideFlags: 0
