@@ -29,7 +29,7 @@ namespace OpenCvSharp
         // Use this for initialization
         void Start()
         {
-            webCamTexture = GetComponent<WebCamController>().webCamTexture;
+            //webCamTexture = GetComponent<WebCamController>().webCamTexture;
         }
 
         // Update is called once per frame
